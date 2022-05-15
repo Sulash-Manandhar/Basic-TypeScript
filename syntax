@@ -1,7 +1,11 @@
-npm i -g typescript         to install typescript
-tsc -v                      to check version of typescript
-tsc init                    to create a config file
-tsc filename.ts             to run typescript file
-tsc --watch filename.ts     to watch typescript file
+npm i -g typescript                                   to install typescript
+tsc -v                                                to check version of typescript
+tsc init                                              to create a config file
+tsc filename.ts                                       to run typescript file
+tsc --watch filename.ts                               to watch typescript file
 
-node filename.js            to run javascript file
+node filename.js                                      to run javascript file
+
+
+npx create-react-app foldername -template typescript  to create a react app with typescript implementation 
+
