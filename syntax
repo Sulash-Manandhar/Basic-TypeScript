@@ -1,0 +1,6 @@
+npm i --global typescript   to install typescript
+tsc init                    to create a config file
+tsc filename.ts             to run typescript file
+tsc --watch filename.ts     to watch typescript file
+
+node filename.js            to run javascript file
