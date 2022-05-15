@@ -1,4 +1,5 @@
-npm i --global typescript   to install typescript
+npm i -g typescript         to install typescript
+tsc -v                      to check version of typescript
 tsc init                    to create a config file
 tsc filename.ts             to run typescript file
 tsc --watch filename.ts     to watch typescript file
