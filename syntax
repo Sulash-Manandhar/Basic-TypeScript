@@ -1,9 +1,9 @@
 npm i -g typescript                                   to install typescript
 tsc -v                                                to check version of typescript
-tsc init                                              to create a config file
+tsc --init or tsc init                                to create a config file
 tsc filename.ts                                       to run typescript file
 tsc --watch filename.ts                               to watch typescript file
-
+npm install webpack webpack-cli ts-loader             TypeScript loader for webpack. Put simply, it’s a plugin that helps webpack work well with TypeScript
 node filename.js                                      to run javascript file
 
 
